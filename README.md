@@ -1,4 +1,4 @@
-<img src="/Screenshot/Dashboard_1.jpg" width="300">>  <img src="/Screenshot/Webview_1.jpg" width="300">
+<img src="/Screenshot/Dashboard_1.jpg" width="300">  <img src="/Screenshot/Webview_1.jpg" width="300">
 ### RU
 *Скоро здесь появится мобильное приложение для Android. Оно позволит управлять устройствами на базе ESP и с использованием прошивки ESPhome. Это значительно упростит взаимодействие с вашими умными устройствами если не используется сервер Home-Assistant и сделает их более удобными в использовании.*
 
